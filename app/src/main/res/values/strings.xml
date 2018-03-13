@@ -1,0 +1,221 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">New York Guide</string>
+
+    <string name="category_sights">Sights</string>
+    <string name="category_info">Info</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_restaurants">Restaurants</string>
+
+
+    <string name="restaurants_lincoln_name">Lincoln Square Steak</string>
+    <string name="restaurants_lincoln_description">A classic steakhouse designed with a nostalgic decor that is reflective
+    of the 1960s era, offers steaks that are dry aged to perfection.</string>
+    <string name="restaurants_lincoln_address">208 West 70th Street New York, NY 10023</string>
+    <string name="restaurants_lincoln_phone">21 287 58 600</string>
+    <string name="restaurants_lincoln_schedule">Sun-Wed 5pm-10:30pm. Thu-Sat 5pm-11:30pm.</string>
+    <string name="restaurants_lincoln_price">$$</string>
+
+
+    <string name="restaurants_cull_name">Cull and Pistol</string>
+    <string name="restaurants_cull_description">A seasonal raw bar. Globally-influenced and innovative seafood dishes.
+        A broad but carefully-curated selection of wine, craft beers and coctails.</string>
+    <string name="restaurants_cull_address">Chelsea Market 75 Ninth Avenue New York, New York 10011 </string>
+    <string name="restaurants_cull_phone">646-568-1223 </string>
+    <string name="restaurants_cull_schedule">Mon-Sat 5pm-10pm. Sun 5pm-9pm.</string>
+    <string name="restaurants_cull_price">$$</string>
+
+    <string name="restaurants_dinosaur_name">Dinosaur Bar BBQ</string>
+    <string name="restaurants_dinosaur_description">Fresh, homemade, and high quality are not just catchwords.
+        They are our foundation. Our menu is firmly rooted in the traditions of Southern bar-b-que.</string>
+    <string name="restaurants_dinosaur_address">604 Union street Brooklyn. NY 11215</string>
+    <string name="restaurants_dinosaur_phone">347-429-7030</string>
+    <string name="restaurants_dinosaur_schedule">Mon-Thu 10:30am-11pm Fri-Sat 11:30am-midnight Sun 11:30am-10pm</string>
+    <string name="restaurants_dinosaur_price">$</string>
+
+
+    <string name="restaurants_five_name">5 Napkin Burger</string>
+    <string name="restaurants_five_description">We strive to elevate the burger experience to its top shelf
+        - because you and your burger deserve it.</string>
+    <string name="restaurants_five_address">630 9th Ave New York, NY, 10036</string>
+    <string name="restaurants_five_phone">212-757-2277</string>
+    <string name="restaurants_five_schedule">Mon-Fri 11:30am-12:00pm Sat-Sun 11:00am-12:00pm</string>
+    <string name="restaurants_five_price">$</string>
+
+
+    <string name="restaurants_dominique_name">Dominique Bistro</string>
+    <string name="restaurants_dominique_description">Dominique Bistro
+            brings a touch of France to the cultured and eclectic neighborhood of West Village.</string>
+    <string name="restaurants_dominique_address">14 Christopher St, New York City, NY 10014-3523</string>
+    <string name="restaurants_dominique_phone">646-756-4145</string>
+    <string name="restaurants_dominique_schedule">Mon-Thu 9:00am-12:00am Fri-Sat 9:00am-1:00am Sun 9:00am-12:00am</string>
+    <string name="restaurants_dominique_price">$</string>
+
+    <string name="restaurants_tree_name">Tree Bistro</string>
+    <string name="restaurants_tree_description">delicious and unpretentious, from small plate
+        delights to comfort food favorites and eclectic seasonal choices.  plus a carefully chosen
+        wine list to explore and enjoy….</string>
+    <string name="restaurants_tree_address">190 1st Ave, New York City, NY 10009-4004</string>
+    <string name="restaurants_tree_phone">212-358-7171</string>
+    <string name="restaurants_tree_schedule">Tue-Thu 5:00pm-11:00pm Fri-Sat 5:00pm-midnight</string>
+    <string name="restaurants_tree_price">$$</string>
+
+    <string name="restaurants_katz_name">Katz Delicatessen</string>
+    <string name="restaurants_katz_description">Our corned beef and pastrami is cured using a slower method, which best flavors the meat,
+    without injecting chemicals, water, or other additives to speed the process.</string>
+    <string name="restaurants_katz_address">205 East Houston Street New York City, 10002</string>
+    <string name="restaurants_katz_phone">(212) 254-2246</string>
+    <string name="restaurants_katz_schedule">Mon-Wed 8:00am-10:45pm Thu 8:00am-2:45am Fri 8:00am- all night Sat-Sun open all day</string>
+    <string name="restaurants_katz_price">$$</string>
+
+    <string name="restaurants_russ_name">Russ and Daughters</string>
+    <string name="restaurants_russ_description">the Russ and Daughters Cafe takes the appetizing classics for which Russ and Daughters is famous and presents them in a
+        beautiful setting that evokes Russ and Daughters’ timeless appeal, history, and haimishness. </string>
+    <string name="restaurants_russ_address">127 Orchard Street, NYC</string>
+    <string name="restaurants_russ_phone">212 475 4880</string>
+    <string name="restaurants_russ_schedule">Mon-Fri 9:00am - 10:00pm Sat-Sun 8:00am - 10:00pm</string>
+    <string name="restaurants_russ_price">$</string>
+
+    <string name="museums_modernart_name">The Museum of Modern Art</string>
+    <string name="museums_modernart_description">MoMA is a place that fuels creativity, ignites minds, and provides inspiration.
+        Its extraordinary exhibitions and collection of modern and contemporary art are dedicated to helping you understand and enjoy the art of our time.</string>
+    <string name="museums_modernart_address">11 West 53 Street, New York, NY 10019 </string>
+    <string name="museums_modernart_schedule">Mon-Sun 10:30am–5:30pm </string>
+    <string name="museums_modernart_phone">212-883-1986</string>
+    <string name="museums_modernart_price" tools:ignore="DuplicateDefinition">$</string>
+
+    <string name="museums_ellisisland_name">Ellis Island</string>
+    <string name="museums_ellisisland_description">The museum is located in the Main Building of the former immigration station complex.
+        The French Renaissance Revival structure, restored to its 1918 - 1924 appearance, tells the moving tales of the 12 million
+        immigrants who entered America through the golden door of Ellis Island</string>
+    <string name="museums_ellisisland_address">Battery Park and Liberty Island, New York City, NY 10017</string>
+    <string name="museums_ellisisland_phone">212-883-1986</string>
+    <string name="museums_ellisisland_schedule">Mon-Sun 10:30am–5:30pm </string>
+    <string name="museums_ellisisland_price" tools:ignore="DuplicateDefinition">$</string>
+
+    <string name="museums_metropolitan_name">The Metropolitan Museum of Art</string>
+    <string name="museums_metropolitan_description">The Met Fifth Avenue presents over 5,000 years of art spanning all cultures
+        and time periods. Since the Museum opened its doors to the public in its current
+        location in Central Park in 1880, its footprint has expanded to cover more than two million square feet.</string>
+    <string name="museums_metropolitan_address">1000 5th Ave, New York City, NY 10028-0198</string>
+    <string name="museums_metropolitan_phone">212-535-7710</string>
+    <string name="museums_metropolitan_schedule">Mon-Sun 10:30am–5:30pm </string>
+    <string name="museums_metropolitan_price" tools:ignore="DuplicateDefinition">$</string>
+
+    <string name="museums_national_name">The National 9/11 Memorial and Museum</string>
+    <string name="museums_national_description">The National September 11 Memorial and Museum is a place of remembrance honoring those
+        who perished in the terrorist attacks of September 11, 2001 and February 26, 1993.</string>
+    <string name="museums_national_address">180 Greenwich St, New York, NY 10007</string>
+    <string name="museums_national_phone">212-312-8800</string>
+    <string name="museums_national_schedule">Sun-Thu 9:00am-8:00pm</string>
+    <string name="museums_national_price" tools:ignore="DuplicateDefinition">$</string>
+
+
+    <string name="museums_library_name">New York Public Library</string>
+    <string name="museums_library_description">The Stephen A. Schwarzman Building of the New York Public Library, originally
+        called the Central Building[4] and more widely known as the Main Branch or as the New York Public Library,[a] is the flagship building in the
+        New York Public Library system and a prominent historic landmark in Midtown Manhattan.</string>
+    <string name="museums_library_address">476 5th Ave New York, NY 10018, New York City, NY, 10035</string>
+    <string name="museums_library_phone">212-930-0800</string>
+    <string name="museums_library_schedule">Sun-Thu 9:00am-8:00pm</string>
+    <string name="museums_library_price" tools:ignore="DuplicateDefinition">$</string>
+
+
+    <string name="museums_merchants_name">Merchants House Museum</string>
+    <string name="museums_merchants_description">The Merchants House Museum, known formerly as the Old Merchants House and as the Seabury Tredwell House,
+        is the only nineteenth-century family home in New York City preserved intact — both inside and out.</string>
+    <string name="museums_merchants_address"> 29 E 4th St, New York, NY 10003</string>
+    <string name="museums_merchants_phone">212 777 1089</string>
+    <string name="museums_merchants_schedule">Thursday, 12 to 8 p.m.; Friday to Monday, 12 to 5 p.m.</string>
+    <string name="museums_merchants_price" tools:ignore="DuplicateDefinition">$</string>
+
+
+    <string name="museums_frick_name">Frick Collection</string>
+    <string name="museums_frick_description">The Frick Collection is an art museum located in the Henry Clay Frick House on the Upper East Side in Manhattan.</string>
+    <string name="museums_frick_address">1 E 70th St, New York, NY 10021</string>
+    <string name="museums_frick_phone">212-288-0700</string>
+    <string name="museums_frick_schedule">Mon-Sun 10:00am-6:00pm</string>
+    <string name="museums_frick_price" tools:ignore="DuplicateDefinition">$</string>
+
+
+    <string name="museums_cloisters_name">The Met Cloisters</string>
+    <string name="museums_cloisters_description">Governed by the Metropolitan Museum of Art, its early collection was built by Barnard,
+        which was acquired by Rockefeller, who in 1931 purchased the site at Washington Heights as a permanent home for the works.</string>
+    <string name="museums_cloisters_address">99 Margaret Corbin Dr, New York, NY 10040</string>
+    <string name="museums_cloisters_phone">212-923-3700</string>
+    <string name="museums_cloisters_schedule">Mon-Sun 10:00am-5:15pm</string>
+    <string name="museums_cloisters_price" tools:ignore="DuplicateDefinition">$</string>
+
+
+    <string name="sights_centralpark_name">Central Park</string>
+    <string name="sights_centralpark_description">Central Park is an urban park in Manhattan, New York City, U.S.
+        state of New York. It comprises 843 acres (341 ha) between the Upper West Side and Upper East Side, roughly bounded by Fifth Avenue on the east</string>
+    <string name="sights_centralpark_address">New York, United States of America</string>
+    <string name="sights_centralpark_phone">212-923-3700</string>
+    <string name="sights_centralpark_schedule">Available at any time</string>
+    <string name="sights_centralpark_price" tools:ignore="DuplicateDefinition">-</string>
+
+    <string name="sights_timessquare_name">Times Square</string>
+    <string name="sights_timessquare_description">Times Square is a major commercial intersection, tourist destination, entertainment center and neighborhood in the Midtown Manhattan
+        section of New York City at the junction of Broadway and Seventh Avenue. It stretches from West 42nd to West 47th Streets.</string>
+    <string name="sights_timessquare_address"> Manhattan, New York </string>
+    <string name="sights_timessquare_phone">212-923-3700</string>
+    <string name="sights_timessquare_schedule">Available at any time</string>
+    <string name="sights_timessquare_price" tools:ignore="DuplicateDefinition">-</string>
+
+
+    <string name="sights_empire_name">Empire State Building</string>
+    <string name="sights_empire_description">The Empire State Building is a 102-story Art Deco skyscraper in Midtown Manhattan, New York City.
+        Designed by Shreve, Lamb and Harmon and completed in 1931</string>
+    <string name="sights_empire_address">350 5th Ave, New York, NY 10118</string>
+    <string name="sights_empire_schedule">Mon-Sun 8:00am-2:00am</string>
+    <string name="sights_empire_phone">212-923-3700</string>
+    <string name="sights_empire_price" tools:ignore="DuplicateDefinition">$</string>
+
+    <string name="sights_statue_name">Statue of Liberty</string>
+    <string name="sights_statue_description">"The Statue of Liberty Enlightening the World" was a gift of friendship from the people of France
+        to the United States and is recognized as a universal symbol of freedom and democracy.</string>
+    <string name="sights_statue_address">Liberty Island, New York City, NY 10004</string>
+    <string name="sights_statue_phone">212-363-3200</string>
+    <string name="sights_statue_schedule">Mon-Sun 10:00am-5:15pm</string>
+    <string name="sights_statue_price" tools:ignore="DuplicateDefinition">$</string>
+
+
+    <string name="sights_brooklyn_name">Brooklyn Bridge</string>
+    <string name="sights_brooklyn_description">The Brooklyn Bridge looms majestically over New York Citys East River, linking the two boroughs of Manhattan and Brooklyn.
+        Since 1883, its granite towers and steel cables have offered a safe and scenic passage to millions of commuters and tourists, trains and bicycles, pushcarts and cars.</string>
+    <string name="sights_brooklyn_address">City Hall Park, Brooklyn, NY 10007</string>
+    <string name="sights_brooklyn_phone">212-923-3700</string>
+    <string name="sights_brooklyn_schedule">Available at any time</string>
+    <string name="sights_brooklyn_price" tools:ignore="DuplicateDefinition">-</string>
+
+
+    <string name="sights_rockefeller_name">Rockefeller Center</string>
+    <string name="sights_rockefeller_description">Rockefeller Center is a large complex consisting of 19 commercial buildings covering 22 acres (89,000 m2) between 48th and 51st Streets, facing Fifth Avenue, in New York City.
+        Commissioned by the Rockefeller family, it is located in the center of Midtown Manhattan.</string>
+    <string name="sights_rockefeller_address">45 Rockefeller Plaza, New York, NY 10111</string>
+    <string name="sights_rockefeller_phone">212-332-6868</string>
+    <string name="sights_rockefeller_schedule">Mon-Sun 10:00am-6:00pm</string>
+    <string name="sights_rockefeller_price" tools:ignore="DuplicateDefinition">$</string>
+
+
+    <string name="sights_broadway_name">Broadway</string>
+    <string name="sights_broadway_description">The Broadway Theatre is a Broadway theatre located in midtown Manhattan.
+        It has a large seating capacity of 1,761, and unlike most Broadway theaters, it is actually located on Broadway.</string>
+    <string name="sights_broadway_address">729 7th Avenue, 6th Floor New York, NY 10019</string>
+    <string name="sights_broadway_phone">212 541 8457</string>
+    <string name="sights_broadway_schedule">Mon-Sun 10:00am-6:00pm</string>
+    <string name="sights_broadway_price" tools:ignore="DuplicateDefinition">$</string>
+
+
+    <string name="sights_fifth_name">Fifth Avenue</string>
+    <string name="sights_fifth_description">Fifth Avenue is a major thoroughfare in the borough of Manhattan in New York City, United States.
+        It stretches from West 143rd Street in Harlem to Washington Square North at Washington Square Park in Greenwich Village.</string>
+    <string name="sights_fifth_address">New York</string>
+    <string name="sights_fifth_phone">212 541 8457</string>
+    <string name="sights_fifth_schedule">Available at any time</string>
+    <string name="sights_fifth_price" tools:ignore="DuplicateDefinition">-</string>
+
+
+
+
+</resources>
