@@ -8,7 +8,6 @@ Project Tour Guide from Udacity multi-screen apps course.
 * ViewPager
 * Fragments
 # Libraries:
-* Picasso
 * CircleImageView
 
 <img src="https://image.ibb.co/bAhNun/Screenshot_2018_03_26_19_26_15_789_com_example_kamil_newyorkguide.png" data-canonical-
